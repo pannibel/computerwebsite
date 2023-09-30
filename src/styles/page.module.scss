@@ -1,0 +1,24 @@
+.header {
+  position: relative;
+  display: flex;
+  justify-content: center;
+
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.nav {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  
+  ul {
+    display: flex;
+    list-style: none;
+    gap: 10vw;
+
+    li {
+      font-family: var(--font-primary);
+    }
+  }
+}

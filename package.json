@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-redux": "^8.1.2",
+    "sass": "^1.68.0",
+    "store": "^2.0.12"
   },
   "devDependencies": {
     "eslint": "latest",
