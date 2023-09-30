@@ -19,6 +19,27 @@
 
     li {
       font-family: var(--font-primary);
+      font-size: var(--h3);
     }
+  }
+}
+
+.about {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  div {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    width: 50vw;
+
+    p {
+      font-size: var(--p);
+      line-height: var(--h2);
+      font-family: var(--font-secondary);
+    }
+    text-align: justify;
   }
 }

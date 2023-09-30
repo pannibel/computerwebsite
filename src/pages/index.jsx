@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <header className={styles.header}>
-        <h1> Welcome to my computer website!</h1>
+        <h1> Welcome to my website!</h1>
       </header>
 
       <nav className={styles.nav}>
@@ -25,6 +25,16 @@ export default function Home() {
           </li>
         </ul>
       </nav>
+
+      <section className={styles.about}>
+        <div>
+        <p>
+          Hi there, my name is Panni and on this site you can find stuff that I'm making. <a>Click here</a> if you wanna be updated about any new posts, otherwise <a>here are</a> some of my contact details if you wanna get in touch.
+        </p>
+        </div>
+      </section>
+
+      <footer>pannibel 2023</footer>
     </main>
   );
 }
