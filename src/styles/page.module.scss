@@ -7,6 +7,14 @@
 
   padding-top: 5%;
   padding-bottom: 3%;
+
+  a {
+    color: var(--color-white);
+  }
+
+  a:hover {
+    font-style: italic;
+  }
 }
 
 .nav {
@@ -86,7 +94,10 @@
 
   padding-top: 10vh;
 
-  .projects, .blog, .shoots, .favs {
+  .projects,
+  .blog,
+  .shoots,
+  .favs {
     display: flex;
     justify-content: center;
 
@@ -110,6 +121,40 @@
   }
 }
 
+//* BLOG POST *//
+
+.post {
+  position: relative;
+  margin: 15vh 20vw 10vh 20vw;
+
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vh;
+    padding-bottom: 10vh;
+
+    h3 {
+      font-weight: bolder;
+    }
+
+    h4 {
+      font-style: italic;
+    }
+  }
+
+  .bodytext {
+    display: flex;
+    flex-direction: column;
+    gap: 7vh;
+
+    text-indent: 5vw;
+    padding-bottom: 5vh;
+  }
+}
+
 //? MOBILE VIEWSSS /
 @media only screen and (max-width: 500px) {
   .main {
@@ -125,7 +170,7 @@
   }
 
   .nav {
-    justify-content: flex-start;
+    //justify-content: flex-start;
     ul {
       display: flex;
       flex-direction: column;
@@ -162,5 +207,35 @@
   .backbutton {
     justify-content: flex-start;
     font-size: var(--p);
+  }
+
+  .post {
+    margin: 7vh 0vw 10vh 0vw;
+
+    .title {
+      display: flex;
+      flex-direction: column;
+      row-gap: 2vh;
+      padding-bottom: 5vh;
+  
+      h3 {
+        font-weight: bolder;
+      }
+  
+      h4 {
+        font-style: italic;
+        line-height: var(--h3);
+      }
+    }
+  
+    .bodytext {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      gap: 7vh;
+  
+      text-indent: 10vw;
+      padding-bottom: 5vh;
+    }
   }
 }

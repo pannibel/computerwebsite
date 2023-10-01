@@ -16,19 +16,19 @@ function Blog() {
         <div className={styles.blog}>
           <ul>
             <li>
-              <Link href="/blog/blog1">POST 01</Link>
+              <Link href="/blog/post1">POST 01</Link>
             </li>
             <li>
-              <Link href="/blog/blog2">POST 02</Link>
+              <Link href="/blog/post2">POST 02</Link>
             </li>
             <li>
-              <Link href="/blog/blog3">POST 03</Link>
+              <Link href="/blog/post3">POST 03</Link>
             </li>
             <li>
-              <Link href="/blog/blog2">POST 04</Link>
+              <Link href="/blog/post2">POST 04</Link>
             </li>
             <li>
-              <Link href="/blog/blog1">POST 05</Link>
+              <Link href="/blog/post1">POST 05</Link>
             </li>
           </ul>
         </div>

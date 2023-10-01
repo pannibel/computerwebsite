@@ -65,15 +65,20 @@ h2 {
 }
 
 h3 {
+  font-family: var(--font-secondary);
   font-size: var(--h3);
 }
 
 h4 {
+  font-family: var(--font-secondary);
   font-size: var(--h4);
+  line-height: var(--h2);
 }
 
 p {
+  font-family: var(--font-secondary);
   font-size: var(--p);
+  line-height: var(--h2);
 }
 
 a {
@@ -99,16 +104,8 @@ li {
 //? MOBILE VIEWSSS /
 @media only screen and (max-width: 500px) {
 
-  h1 {
-    font-size: var(--h2);
-  }
-
   h2 {
     font-size: var(--h3);
-  }
-  
-  h3 {
-    font-size: var(--h4);
   }
   
   h4 {
