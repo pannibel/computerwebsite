@@ -29,7 +29,7 @@ export default function Home() {
       <section className={styles.about}>
         <div>
         <p>
-          Hi there, my name is Panni and on this site you can find stuff that I'm making. <a>Click here</a> if you wanna be updated about any new posts, otherwise <a>here are</a> some of my contact details if you wanna get in touch.
+          Heeey, I'm Panni and here you can find stuff that I'm making. I work with digital and physical materials, graphic design is my passion, coding is an obsession, but I also love to take photos and write out my thoughts sometimes. <a>Click here</a> if you wanna be updated about any new posts, otherwise <a>here are</a> some of my contact details if you wanna get in touch.
         </p>
         </div>
       </section>

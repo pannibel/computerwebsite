@@ -16,8 +16,8 @@ function Favs() {
         <div className={styles.favs}>
           <ul>
             <li><Link href="/favs/dec2023">DECEMBER '23</Link></li>
-            <li><Link href="/favs/jan2024">NOVEMBER '23</Link></li>
-            <li><Link href="/favs/feb2024">OCTOBER '23</Link></li>
+            <li><Link href="/favs/nov2023">NOVEMBER '23</Link></li>
+            <li><Link href="/favs/oct2023">OCTOBER '23</Link></li>
           </ul>
         </div>
       </section>
