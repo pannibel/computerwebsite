@@ -1,10 +1,13 @@
+
+//* HOMEPAGE *//
+
 .header {
   position: relative;
   display: flex;
   justify-content: center;
 
   padding-top: 5%;
-  padding-bottom: 5%;
+  padding-bottom: 3%;
 }
 
 .nav {
@@ -21,6 +24,10 @@
       font-family: var(--font-primary);
       font-size: var(--h3);
     }
+
+    li:hover {
+      font-style: italic;
+    }
   }
 }
 
@@ -32,7 +39,7 @@
 
   div {
     padding-top: 15%;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
     width: 50vw;
 
     p {
@@ -42,4 +49,25 @@
     }
     text-align: justify;
   }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0%;
+}
+
+
+//* PROJECTS *//
+
+.backbutton {
+  position: relative;
+  display: flex;
+  justify-content: center;
+
+  font-family: var(--font-primary);
+  font-size: var(--h3);
+}
+
+.backbutton:hover {
+  font-style: italic;
 }

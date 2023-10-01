@@ -18,7 +18,7 @@ export default function Home() {
             <Link href="/blog">blog</Link>
           </li>
           <li>
-            <Link href="/music">music</Link>
+            <Link href="/photos">photos</Link>
           </li>
           <li>
             <Link href="/favs">monthly favorites</Link>
@@ -34,7 +34,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer>pannibel 2023</footer>
+      <footer className={styles.footer}>pannibel 2023</footer>
     </main>
   );
 }
