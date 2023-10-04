@@ -70,6 +70,7 @@
   position: absolute;
   bottom: 0%;
   font-family: var(--font-third);
+  color: var(--color-green);
 }
 
 //* PROJECTS *//
@@ -110,7 +111,7 @@
       li {
         font-family: var(--font-secondary);
         a {
-          color: var(--color-white);
+          color: var(--color-green);
         }
       }
       li:hover {
@@ -125,7 +126,7 @@
 
 .post {
   position: relative;
-  margin: 15vh 20vw 10vh 20vw;
+  margin: 15vh 25vw 10vh 25vw;
 
   display: flex;
   flex-direction: column;
@@ -138,6 +139,7 @@
 
     h3 {
       font-weight: bolder;
+      color: var(--color-green);
     }
 
     h4 {
@@ -152,6 +154,7 @@
 
     text-indent: 5vw;
     padding-bottom: 5vh;
+    text-align: justify;
   }
 }
 
