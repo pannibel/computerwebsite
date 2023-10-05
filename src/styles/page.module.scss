@@ -92,6 +92,8 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   padding-top: 10vh;
 
@@ -100,7 +102,12 @@
   .shoots,
   .favs {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: flex-start;
+    gap: 5vh;
+
+    width: 30vw;
 
     ul {
       list-style: none;
@@ -119,6 +126,29 @@
         font-style: italic;
       }
     }
+  }
+}
+
+.imageFlex {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: none;
+}
+
+.imageContainer {
+  position: relative;
+  display: flex;
+  width: 100%;
+
+  img {
+    display: flex;
+    width: 100%;
+  }
+
+  video {
+    display: flex;
+    width: 100%;
   }
 }
 

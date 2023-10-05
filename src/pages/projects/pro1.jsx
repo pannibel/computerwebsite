@@ -1,5 +1,6 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
 
 function pro1() {
   return (
@@ -16,15 +17,41 @@ function pro1() {
 
       <section className={styles.post}>
         <div className={styles.title}>
-          <h3>WHERE IS CREATIVITY?</h3>
+          <h3>OKAYSO</h3>
           <h4>
-            ON A QUEST TO SOLVE THE MYSTERY WITH THE BOOK ’CREATIVITY’ BY MIHÁLY
-            CSÍKSZENTMIHÁLYI{" "}
+            An experimental work in Photoshop to make print designs for a
+            magazine/event/etc
           </h4>
         </div>
 
-        <div className={styles.postdate}>
-          <p>17.04.2023.</p>
+        <div className={styles.imageFlex}>
+          <div className={styles.imageContainer} id={styles.image05}>
+            <img src="../images/posters-1.jpg" alt="posters1" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image03}>
+            <img src="../images/okayso_orange.png" alt="okayso_orange" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image07}>
+            <img src="../images/posters-3.jpg" alt="posters3" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image01}>
+            <img src="../images/okayso_purple.png" alt="okayso_purple" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image06}>
+            <img src="../images/posters-2.jpg" alt="posters2" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image04}>
+            <img src="../images/okayso_red.png" alt="okayso_red" />
+          </div>
+
+          <div className={styles.imageContainer} id={styles.image02}>
+            <img src="../images/okayso_blue.png" alt="okayso_blue" />
+          </div>
         </div>
       </section>
 
@@ -33,4 +60,4 @@ function pro1() {
   );
 }
 
-export default pro1
+export default pro1;
