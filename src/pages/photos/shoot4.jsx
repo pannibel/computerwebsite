@@ -20,7 +20,7 @@ function shoot4() {
           </div>
           
             <div className={styles.title}>
-              <h3>SPORO WODY NEW RELEASE '003_07'</h3>
+              <h3>SPORO WODY NEW RELEASE ’003_07’</h3>
               <h4>DIGITAL / CANON EOS 70D</h4>
             </div>
     

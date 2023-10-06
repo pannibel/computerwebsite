@@ -21,7 +21,7 @@ function pro2() {
         <div className={styles.title}>
           <h3>BLENDER VACCINE</h3>
           <h4>
-            First attempt at Blender, following @intranetgirl's tutorial on Youtube
+            First attempt at Blender, following @intranetgirl’s tutorial on Youtube
           </h4>
         </div>
 
