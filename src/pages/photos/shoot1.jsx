@@ -21,7 +21,7 @@ function shoot1() {
       </div>
       
         <div className={styles.title}>
-          <h3>CHAIR NEW RELEASE 'GO!'</h3>
+          <h3>CHAIR NEW RELEASE ’GO!’</h3>
           <h4>
             DIGITAL / CANON EOS 70D
           </h4>

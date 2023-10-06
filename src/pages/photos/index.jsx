@@ -16,16 +16,16 @@ function Photos() {
         <div className={styles.shoots}>
           <ul>
             <li>
-              <Link href="/photos/shoot1">CHAIR NEW RELEASE 'GO!'</Link>
+              <Link href="/photos/shoot1">CHAIR NEW RELEASE ’GO!’</Link>
             </li>
             <li>
               <Link href="/photos/shoot2">SUMMER IN CROATIA</Link>
             </li>
             <li>
-              <Link href="/photos/shoot3">SPORO WODY NEW RELEASE '003_04'</Link>
+              <Link href="/photos/shoot3">SPORO WODY NEW RELEASE ’003_04’</Link>
             </li>
             <li>
-              <Link href="/photos/shoot4">SPORO WODY NEW RELEASE '003_07'</Link>
+              <Link href="/photos/shoot4">SPORO WODY NEW RELEASE ’003_07’</Link>
             </li>
             <li>
               <Link href="/photos/shoot5">MAY 2023</Link>
