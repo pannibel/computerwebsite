@@ -15,6 +15,9 @@ function pro2() {
       </div>
 
       <section className={styles.post}>
+      <div className={styles.backbutton}>
+        <Link href="/projects">{`<<<`}</Link>
+      </div>
         <div className={styles.title}>
           <h3>BLENDER VACCINE</h3>
           <h4>

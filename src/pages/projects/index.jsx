@@ -29,16 +29,16 @@ function Projects() {
           <ul>
             <li><Link href="https://fruit-fest.netlify.app" target="_blank">RANGER FEST WEBSITE</Link></li>
             <li><Link href="/projects/pro3">THE ZOO POSTERS</Link></li>
-            <li><Link href="/projects/pro3">THE JANE POSTERS</Link></li>
+            <li><Link href="/projects/pro5">THE JANE POSTERS</Link></li>
             <li><Link href="/projects/pro4">BLENDER VACCINE</Link></li>
             <li><Link href="/projects/pro3">ILLUSTRATIONS 02</Link></li>
             {/* <li><Link href="https://pannibel.com/murdermystery/" target="_blank">MURDER MYSTERY GAME</Link></li> */}
           </ul>
           <h3>2021</h3>
           <ul>
-            <li><Link href="https://pannibel.com/primetime/" target="_blank">PRIMETIME GAME</Link></li>
+            <li><Link href="https://pannibel.com/primetime/" target="_blank">PRIMETIME GAME (desktop only)</Link></li>
             <li><Link href="https://pannibel.com/timetravel/" target="_blank">TIME TRAVEL WEBSITE</Link></li>
-            <li><Link href="https://pannibel.com/microcomputer/index.html" target="_blank">MICROCOMPUTER WEBSITE</Link></li>
+            <li><Link href="https://pannibel.com/microcomputer/index.html" target="_blank">MICROCOMPUTER WEBSITE (desktop only)</Link></li>
             <li><Link href="/projects/pro3">ILLUSTRATIONS 01</Link></li>
           </ul>
 

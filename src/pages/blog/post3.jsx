@@ -15,267 +15,169 @@ function blog3() {
       </div>
 
       <section className={styles.post}>
+      <div className={styles.backbutton}>
+          <Link href="/blog">{`<<<`}</Link>
+        </div>
         <div className={styles.title}>
-          <h3>WHERE IS CREATIVITY?</h3>
-          <h4>
-            ON A QUEST TO SOLVE THE MYSTERY WITH THE BOOK ’CREATIVITY’ BY MIHÁLY
-            CSÍKSZENTMIHÁLYI{" "}
-          </h4>
+          <h3>IS CARING A LOSING GAME?</h3>
+          <h4>OR IS DO WE LOSE OURSELVES BY NOT CARING?</h4>
         </div>
 
         <div className={styles.bodytext}>
           <section>
             <p>
-              Growing up as a kind of artistic kid, who’s always been ’good at
-              drawing’ it seemed like there are two types of people in the
-              world: those who are creative and those who are not. The creative
-              ones are always making something – usually something artistic -,
-              but even when they aren’t, they are thinking about ideas. The
-              non-creative ones are just incapable of doing so, and even if they
-              tried, they’d end up failing. To me, they always seemed accepting
-              of their incapability; why would they try if there were others,
-              who are, by default, better anyways. Our society teaches us this:
-              creativity is for the few talented ones, and you should only do
-              something if you are at least somewhat good at it.
-              <br />
-              In any setting, I was the designated „creative”, which often made
-              me wonder, what exactly makes me better for the job, than others?
-              Is it something you are born with? Something you learn? Something
-              you can become if you’re determined enough? Creativity seemed such
-              a slippery term, and in these settings it mostly meant that one
-              has a good aesthetic eye, and is able to put things together so
-              that they look visually pleasing or interesting; in other cases it
-              just means that the creative is making weird, maybe even
-              unsettling, difficult-to-understand-for-everyday-people stuff.
-              Which, to me, has always been a distorted and trivialized view of
-              what it actually is, but sadly, a lot of people think about
-              creativity in these terms, as something they are outsiders of
-              anyway.
-            </p>
-          </section>
-
-          <section>
-            <p>
-              During my studies in psychology I met with the theory of the
-              ’flow’ by Csíkszentmihályi – which a lot of us are familiar with
-              as an everyday term, but the „extended version” fascinated me so
-              much that I became a fan of him immediately. The fact that he’s
-              also Hungarian made me extra proud but that’s not at all connected
-              to anything that I’m trying to say here. What I’m trying to say
-              is, three years ago I spent my Christmas gift card from my dad on
-              Csíkszentmihályi’s book, Creativity, and it changed my life.
-              <br />
-              I don’t want to lie and say I was always on a quest to find out
-              what creativity is, because even though I wondered about it, I was
-              always too lazy to actually go after the answer. So I started to
-              read the book with no expectations and just the trust that I
-              already liked one idea from this man, I might like another.
-              <br />
-              Here I want to share what I learned about creativity and some of
-              my own thoughts on the matter that were inspired by the book.
-            </p>
-          </section>
-
-          <section>
-            <p>
-              First and foremost, I was knocked for a loop at the very beginning
-              – creativity is not just making art. The book studies and
-              interviews several creatives who have contributed to the world:
-              philosophers, authors, economists, astronomers, mathematicians,
-              computer scientists, actors, biologists, chemists, business
-              executives, geologists, and so on. I did not know all of these
-              fields were creative! But then again, seems like I had no idea
-              what creativity is.
-              </p>
-              </section>
-
-              <section>
+              It’s cool to care. A good friend of mine told me this, in a
+              situation where I felt that caring is a burden. It complicates
+              life, it makes us feel stupid, and generally, even if only unsaid,
+              it is labeled „uncool”.</p>
               <p>
-              Creativity is human. It’s what makes us human.
-              <br />
-              It’s doing something for it’s own sake, for the enjoyment of it,
-              not for success, or fame, or money. Being in this creative state
-              is a fulfilling experience, and it’s not just for a lucky few. I
-              saw a snippet of a podcast on Tiktok some time ago – even though I
-              curse Tiktok and social media in general, it always leads me to
-              good places – where the podcaster was talking about how deranged
-              it is to do think that you are only allowed do something if you
-              are good at it. You shouldn’t be singing or painting or dancing
-              because you’re good at it; you should be doing it because you are
-              human. We as people at some point decided that it’s shameful or
-              awkward to participate in creative activities if you don’t know
-              what you’re doing – which is the complete opposite of the role
-              they are supposed to be playing in our lives.
-              <br />
-              No scientist knew from birth the knowledge they acquired, no
-              businessman was born with the skills to be great, you have to
-              start and enjoy the trying, enjoy not being good at it, because
-              you’re not doing it to be good at it – you’re doing it because you
-              are human.
+              For what reason?
             </p>
           </section>
 
           <section>
             <p>
-              Our future is shaped by creativity.
-              <br />
-              It also doesn’t simply come from a mind of a single person – it
-              has many components and is essentially a synergy of many sources –
-              the people around us, the people who have come before us, what
-              knowledge and practice we have access to, many-many things. A lot
-              depends on circumstances and our internal workings, and a lot of
-              what we like to call „luck”. Being biologically, socially or in
-              any other way determined has always been a hard pill to swallow
-              for me, but this is the truth here.
-              <br />
-              That being said, we have almost infinite access of what came
-              before us within our reach, to observe it, to learn from it, to be
-              immersed in it. Fill yourself up, see the beautiful, the
-              groundbreaking, the simple, the innovative creations of the past,
-              learn why they became what they became, read the books and listen
-              to the podcasts, don’t try to be entertained, try to be inspired.
+              When a celebrity couple breaks up and we see one of them out and
+              about, living life as if nothing happened, we think, good for
+              them. They have moved on already, they avoided the sadness, the
+              grief, inviting potential happiness into their lives as fast as
+              they could. That’s cool.</p>
+              <p>
+              Taking this example, maybe the answer is that living life
+              reasonably is cool. It makes sense to move on as soon as possible.
+              It is essentially for our own good, if you will. Having an easy
+              time moving abroad and leaving our friends behind, staying
+              positive after losing a job or failing a class, even if they are
+              not conscious choices and you are just a person who’s naturally
+              able not to care, seems like these things are in your favor.
             </p>
           </section>
 
           <section>
             <p>
-              According to the book there are different types (or levels) of
-              creativity, and not everyone can be creative in the same way. I
-              try not to contradict myself, because creativity is for everyone –
-              that being said some people are more creative than others.
-              <br />
-              All creatives like to think, to come up with new ideas, to learn,
-              to practice, and so on - but to be a Creative with a big C, as the
-              author describes them, who leads a creative life and, potentially,
-              shapes the future, takes a bit more.
+              It’s also a generally negative experience to be the one who cares
+              more than another person or other people in a certain setting. To
+              be the one who cares more about a friendship or a relationship
+              sucks. We like to maintain a balance in caring so that it’s equal,
+              upkeeping a homeostasis of feelings, where we are always
+              monitoring the level of care of the others and regulate our own
+              based on the results.
             </p>
           </section>
 
           <section>
             <p>
-              There is no recipe for what makes a creative personality, but
-              there are some common traits that they all share: curiosity in the
-              world, interest in how things work, wonder, openness, fluid
-              attention. They are also quite complex. If you know a creative, or
-              you consider yourself one, this complexity – that’s sometimes even
-              contradictory – might be familiar.
-              <br />
-              Csíkszentmihályi collected these traits into 10 points, which
-              include: being smart and naive at the same time; being playful but
-              also disciplined; being extraverted and introverted; being
-              masculine and feminine; and the list goes on. What this means is
-              that creatives are able to display a wider range of traits than
-              others, and they move more fluidly between extremes, without
-              feeling the need to stick to only one end of the spectrum.
+              The amount of times I said the phrase „let me care less then”
+              hurts my soul. Let me not give you all this care, because I’d
+              still rather choose the pain of withholding than not having it
+              reciprocated. Ouchie.</p>
+              <p>
+              So we try not to care as much as we can. But what is the price of
+              that?
+              <br/>I feel it might be a bit otherwordly, hard to describe and
+              hard to grasp, when I try to answer the question. We pay the price
+              of being true to ourselves. We lose depth, potential, we devalue
+              feelings, risks, and worst of all, we become used to it so much,
+              we don’t even think twice anymore.
             </p>
           </section>
 
           <section>
             <p>
-              This person needs to have a passion for a domain and have immerse{" "}
-              <b>knowledge</b> about this domain: the rules and theories of
-              music, chemistry, astronomy, business, etc. Being interested in
-              more than one domain is very common, and I can also relate to this
-              – I like and practice many of them at the same time. But this
-              divides attention and even though I have some knowledge about all
-              these domains, I know much less than someone spending their time
-              and energy on only one of them. I don’t mind it because I like
-              them all and I don’t want to choose. Fortunately, being
-              multifaceted can also be helpful. Some ideas are born because of
-              knowledge from different areas of expertise, making unlikely
-              connections between domains.
-              <br />
-              This brings us to the next point. As I mentioned in the beginning,
-              the creative enjoys working and contributing to this domain or
-              domains for the sake of it. But they also need to bring{" "}
-              <b>novelty</b> to it, to think of and create something new, to
-              contribute in their own ways – this is what moves the domain, and
-              therefore, the world, forward. They usually have a lot of ideas,
-              good and bad both, and they need to try those ideas to learn the
-              difference between what works and what doesn’t, because not every
-              idea is worth to pursue.
-              <br />
-              What they also need is <b>peers</b>.
-              <br />
-              This would be the field, the other creatives in the domain, the
-              experts. The field varies a lot depending on domains and certain
-              situations, but it’s approval is needed for the „new idea”.
-              Knowing the field and being part of the field is a little bit of
-              the luck and environmental circumstances that we might have
-              limited control over. You need to have access to the field, live,
-              or work, or study in a place where you can meet the others, where
-              you can talk, collaborate, share and show your ideas – there are
-              certainly centrals of art, design, fashion, film, etc. in the
-              world where all this is easier than elsewhere.
-              <br />
-              Although in the digital world it’s all a bit simpler now. Still,
-              you need the openness to connect, to strike up a conversation, or
-              have the luck to cross paths with likeminded people, so you can
-              become part of the community. The book goes on about how the field
-              has to notice and accept the creative based on their work and
-              contribution to the domain, so being a smooth talker might just
-              not be good enough, though.
+              I started looking at caring as a negative feeling. Something I
+              give and something I withhold, a currency, a weapon that’s capable
+              of hurting me or others. Something I can control, something that
+              helps me have control. Something that’s uncool to have too much
+              of.
             </p>
           </section>
 
           <section>
             <p>
-              There is a question. Is this book one of my favourites because it
-              explained to me that I’m not lazy, I’m just creative? Possibly.
-              And I’m not gonna go into details about the ’creative process’
-              here for too long, but let me tell you: it is also not what I
-              thought it would be.
-              <br />
-              Did you ever have a great idea when you were forcing it? Me
-              neither. Some good ideas maybe, but not the best ones. It feels
-              like the more you try to come up with something, the further you
-              are from it.
-              <br />
-              Frank Offner (engineer, inventor) says, if you meet a problem, the
-              last thing you should do is try to solve it immediately. Not
-              saying that it’s bad to think, and to think hard, but more often
-              than not, some time has to pass before an idea miraculously
-              appears. This is called an incubation period, which ends with
-              those great „random” ideas in the shower, during a walk, or right
-              after waking up. Then we have to decide whether to pursue the
-              idea, as I mentioned earlier, the creative person has to learn to
-              distinguish good ones and bad ones. If we do decide to pursue it,
-              then comes the hard work – and this hard work is supposedly 99% of
-              the creative process! But the inspiration, the spark, the great
-              idea is essential. And for that, idleness is essential.
-              <br />
-              Freeman Dyson (physicist) thinks those who are constantly busy,
-              are usually not creative, so he doesn’t mind being lazy. Elisabeth
-              Noelle-Neuman (political scientist) needs a lot of sleep so her
-              thoughts don’t become mediocre. Donald Campbell (social scientist)
-              prefers to wonder – and wander – a lot. Natalie Davis (historian)
-              explains how if she doesn’t like something anymore, she doesn’t
-              want to do it, and it’s difficult to stay creative with something
-              you don’t like.
-              <br />I like this approach. And even though there needs to be hard
-              work, all these people don’t necessarily consider their lives to
-              be spent with that. The cliché might be true – do what you love
-              and you won’t work a day in your life.
+              „I don’t care that much.”
+              </p>
+              <p>
+              „It’s okay if you do.”
             </p>
           </section>
 
           <section>
             <p>
-              With the creative work we have to respect that part of it is out
-              of our hands. It comes from what we were born with, our
-              subconscious, our luck, it can even feel like it comes from a
-              higher being, guiding our hands and minds. It’s a wonder and a
-              mystery, something that transcends us, that cannot be forced and
-              rushed. But it is here for all of us. No one is born to be
-              non-creative and no activities are reserved for the creatives
-              only. All we can do is learn it, learn from it, share it,
-              challenge ourselves with it, and last but not least, enjoy it.{" "}
+              Not a lot of people say that. Made me stop in my rush towards
+              solving a conflict. I was all about getting it done with the least
+              amount of collateral damage. As I usually do. Withholding care is
+              my weapon, or maybe my shield in this case. It’s not even a
+              conscious choice, but it’s an obvious choice.</p>
+              <p>I wish I didn’t care. I’m training myself not to care, I’m
+              trying to get myself used to it, because it’s the better way. And
+              all of a sudden someone tells me it’s no way at all. There are no
+              ways other than what naturally comes to you. Fighting this way,
+              training yourself out of it is the worst way you could go.
+            </p>
+          </section>
+
+          <section>
+            <p>
+              Caring is deep and heavy sometimes. It demands our time and
+              energy. If in that conflict I chose the path where I care, it was
+              gonna take more than if I had just skipped over it. But then
+              again, whenever I chose the latter option, I was left feeling a
+              bit empty, with an unfinished business and a lot of tucked away
+              feelings.</p>
+              <p>
+              So I am not doing that. And I end up crying, crying so much.
+              Waking up and going to sleep with a heavy mind. A pain in my chest
+              when I miss them. Writing about it. Being honest about it. Yes, it
+              does suck, and it does make me question things I haven’t
+              questioned before, it makes me uncomfortable, it makes me feel
+              bad.
+              <br />
+              It makes me feel the truth. And it’s important to know the truth.
+            </p>
+          </section>
+
+          <section>
+            <p>
+              I have a hard time caring about myself though. Funnily enough,
+              this same person made me realize that I should care more. I
+              remember thinking, „if someone else can care about me and my
+              feelings this much, why can’t I? If this person respects them and
+              treats them as something normal, why don’t I?”.</p>
+              <p>
+              It’s hard not to fall in love with someone like that.
+              <br />
+              Doesn’t take much does it? Someone who listens and asks, cares and
+              shows it too. Basically. So is that the key to self love?
+              Listening to yourself, caring about yourself and showing yourself
+              this care? And isn’t it true love if they help you learn to love
+              yourself? But maybe I should continue caring about these feelings
+              - if I learned anything, it’s this. Being honest and authentic is
+              self love. Sharing it with someone is caring. It doesn’t have to
+              be good or bad, it doesn’t have to matter where they stand, what
+              the outcome will be. It’s essentially holding it out in the palm
+              of my hand towards them and saying, this is me. I want you to know
+              me. Even if it’s not what you hoped for, but I can’t make it into
+              something it’s not.
+            </p>
+          </section>
+
+          <section>
+            <p>
+              Caring is a losing game in the end. Giving it up against the
+              natural flow of things. Surrendering to truths and real feelings.
+              Choosing the harder path in order to remain authentic. Learn to
+              care about yourself. I am learning too, and it wasn’t even easy to
+              find a reason why. I needed another person’s care for that. We
+              need each other’s care too.</p>
+              <p>
+              It is cool to care. Care as much as you need, as much as you have,
+              not for reciprocity, not to control, but for itself.
             </p>
           </section>
         </div>
 
         <div className={styles.postdate}>
-          <p>17.04.2023.</p>
+          <p>03.10.2023.</p>
         </div>
       </section>
 
@@ -284,4 +186,4 @@ function blog3() {
   );
 }
 
-export default blog3
+export default blog3;

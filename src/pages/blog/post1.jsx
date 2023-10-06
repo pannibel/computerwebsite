@@ -15,6 +15,9 @@ function blog1() {
       </div>
 
       <section className={styles.post}>
+      <div className={styles.backbutton}>
+        <Link href="/blog">{`<<<`}</Link>
+      </div>
         <div className={styles.title}>
           <h3>WHERE IS CREATIVITY?</h3>
           <h4>
@@ -36,8 +39,8 @@ function blog1() {
               of their incapability; why would they try if there were others,
               who are, by default, better anyways. Our society teaches us this:
               creativity is for the few talented ones, and you should only do
-              something if you are at least somewhat good at it.
-              <br />
+              something if you are at least somewhat good at it.</p>
+              <p>
               In any setting, I was the designated „creative”, which often made
               me wonder, what exactly makes me better for the job, than others?
               Is it something you are born with? Something you learn? Something
@@ -63,14 +66,14 @@ function blog1() {
               also Hungarian made me extra proud but that’s not at all connected
               to anything that I’m trying to say here. What I’m trying to say
               is, three years ago I spent my Christmas gift card from my dad on
-              Csíkszentmihályi’s book, Creativity, and it changed my life.
-              <br />
+              Csíkszentmihályi’s book, Creativity, and it changed my life.</p>
+              <p>
               I don’t want to lie and say I was always on a quest to find out
               what creativity is, because even though I wondered about it, I was
               always too lazy to actually go after the answer. So I started to
               read the book with no expectations and just the trust that I
-              already liked one idea from this man, I might like another.
-              <br />
+              already liked one idea from this man, I might like another.</p>
+              <p>
               Here I want to share what I learned about creativity and some of
               my own thoughts on the matter that were inspired by the book.
             </p>
@@ -105,8 +108,8 @@ function blog1() {
               human. We as people at some point decided that it’s shameful or
               awkward to participate in creative activities if you don’t know
               what you’re doing – which is the complete opposite of the role
-              they are supposed to be playing in our lives.
-              <br />
+              they are supposed to be playing in our lives.</p>
+              <p>
               No scientist knew from birth the knowledge they acquired, no
               businessman was born with the skills to be great, you have to
               start and enjoy the trying, enjoy not being good at it, because
@@ -126,8 +129,8 @@ function blog1() {
               depends on circumstances and our internal workings, and a lot of
               what we like to call „luck”. Being biologically, socially or in
               any other way determined has always been a hard pill to swallow
-              for me, but this is the truth here.
-              <br />
+              for me, but this is the truth here.</p>
+              <p>
               That being said, we have almost infinite access of what came
               before us within our reach, to observe it, to learn from it, to be
               immersed in it. Fill yourself up, see the beautiful, the
@@ -142,8 +145,8 @@ function blog1() {
               According to the book there are different types (or levels) of
               creativity, and not everyone can be creative in the same way. I
               try not to contradict myself, because creativity is for everyone –
-              that being said some people are more creative than others.
-              <br />
+              that being said some people are more creative than others.</p>
+              <p>
               All creatives like to think, to come up with new ideas, to learn,
               to practice, and so on - but to be a Creative with a big C, as the
               author describes them, who leads a creative life and, potentially,
@@ -158,8 +161,8 @@ function blog1() {
               world, interest in how things work, wonder, openness, fluid
               attention. They are also quite complex. If you know a creative, or
               you consider yourself one, this complexity – that’s sometimes even
-              contradictory – might be familiar.
-              <br />
+              contradictory – might be familiar.</p>
+              <p>
               Csíkszentmihályi collected these traits into 10 points, which
               include: being smart and naive at the same time; being playful but
               also disciplined; being extraverted and introverted; being
@@ -183,8 +186,8 @@ function blog1() {
               them all and I don’t want to choose. Fortunately, being
               multifaceted can also be helpful. Some ideas are born because of
               knowledge from different areas of expertise, making unlikely
-              connections between domains.
-              <br />
+              connections between domains.</p>
+              <p>
               This brings us to the next point. As I mentioned in the beginning,
               the creative enjoys working and contributing to this domain or
               domains for the sake of it. But they also need to bring{" "}
@@ -193,8 +196,8 @@ function blog1() {
               therefore, the world, forward. They usually have a lot of ideas,
               good and bad both, and they need to try those ideas to learn the
               difference between what works and what doesn’t, because not every
-              idea is worth to pursue.
-              <br />
+              idea is worth to pursue.</p>
+              <p>
               What they also need is <b>peers</b>.
               <br />
               This would be the field, the other creatives in the domain, the
@@ -206,8 +209,8 @@ function blog1() {
               or work, or study in a place where you can meet the others, where
               you can talk, collaborate, share and show your ideas – there are
               certainly centrals of art, design, fashion, film, etc. in the
-              world where all this is easier than elsewhere.
-              <br />
+              world where all this is easier than elsewhere.</p>
+              <p>
               Although in the digital world it’s all a bit simpler now. Still,
               you need the openness to connect, to strike up a conversation, or
               have the luck to cross paths with likeminded people, so you can
@@ -224,13 +227,13 @@ function blog1() {
               explained to me that I’m not lazy, I’m just creative? Possibly.
               And I’m not gonna go into details about the ’creative process’
               here for too long, but let me tell you: it is also not what I
-              thought it would be.
-              <br />
+              thought it would be.</p>
+              <p>
               Did you ever have a great idea when you were forcing it? Me
               neither. Some good ideas maybe, but not the best ones. It feels
               like the more you try to come up with something, the further you
-              are from it.
-              <br />
+              are from it.</p>
+              <p>
               Frank Offner (engineer, inventor) says, if you meet a problem, the
               last thing you should do is try to solve it immediately. Not
               saying that it’s bad to think, and to think hard, but more often
@@ -242,8 +245,8 @@ function blog1() {
               distinguish good ones and bad ones. If we do decide to pursue it,
               then comes the hard work – and this hard work is supposedly 99% of
               the creative process! But the inspiration, the spark, the great
-              idea is essential. And for that, idleness is essential.
-              <br />
+              idea is essential. And for that, idleness is essential.</p>
+              <p>
               Freeman Dyson (physicist) thinks those who are constantly busy,
               are usually not creative, so he doesn’t mind being lazy. Elisabeth
               Noelle-Neuman (political scientist) needs a lot of sleep so her
@@ -251,8 +254,8 @@ function blog1() {
               prefers to wonder – and wander – a lot. Natalie Davis (historian)
               explains how if she doesn’t like something anymore, she doesn’t
               want to do it, and it’s difficult to stay creative with something
-              you don’t like.
-              <br />I like this approach. And even though there needs to be hard
+              you don’t like.</p>
+              <p>I like this approach. And even though there needs to be hard
               work, all these people don’t necessarily consider their lives to
               be spent with that. The cliché might be true – do what you love
               and you won’t work a day in your life.

@@ -16,6 +16,10 @@ function pro1() {
       </div>
 
       <section className={styles.post}>
+      <div className={styles.backbutton}>
+        <Link href="/projects">{`<<<`}</Link>
+      </div>
+      
         <div className={styles.title}>
           <h3>OKAYSO</h3>
           <h4>
