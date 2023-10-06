@@ -5,7 +5,7 @@ function Blog() {
   return (
     <main className={styles.main}>
       <header className={styles.header}>
-        <h1>Blog</h1>
+        <h1>blog</h1>
       </header>
 
       <div className={styles.backbutton}>

@@ -146,6 +146,7 @@
   align-items: center;
 
   padding-top: 10vh;
+  padding-bottom: 10vh;
 
   .projects,
   .blog,
@@ -159,6 +160,12 @@
 
     width: 30vw;
 
+    h3 {
+      font-family: var(--font-primary);
+      color: var(--color-white);
+      padding-top: 1em;
+    }
+
     ul {
       list-style: none;
       display: flex;
@@ -170,6 +177,9 @@
         a {
           color: var(--color-green);
         }
+ /*        a:hover {
+          color: var(--color-pink);
+        } */
       }
       li:hover {
         cursor: pointer;
@@ -183,7 +193,7 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: none;
+  gap: 5vh;
 }
 
 .imageContainer {
@@ -207,6 +217,44 @@
 .post {
   position: relative;
   margin: 5vh 25vw 10vh 25vw;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  .backbutton {
+    padding-bottom: 5vh;
+    font-family: var(--font-third);
+  }
+
+  .title {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1vh;
+    padding-bottom: 5vh;
+
+    h3 {
+      font-weight: bolder;
+      color: var(--color-green);
+    }
+  }
+
+  .bodytext {
+    display: flex;
+    flex-direction: column;
+    gap: 7vh;
+
+    text-indent: 5vw;
+    padding-bottom: 5vh;
+    text-align: justify;
+  }
+}
+
+//* PHOTO ALBUM *//
+
+.album {
+  position: relative;
+  margin: 5vh 30vw 10vh 30vw;
 
   display: flex;
   flex-direction: column;
@@ -303,6 +351,36 @@
   }
 
   .post {
+    margin: 7vh 0vw 10vh 0vw;
+
+    .title {
+      display: flex;
+      flex-direction: column;
+      row-gap: 2vh;
+      padding-bottom: 5vh;
+  
+      h3 {
+        font-weight: bolder;
+      }
+  
+      h4 {
+        font-style: italic;
+        line-height: var(--h3);
+      }
+    }
+  
+    .bodytext {
+      display: flex;
+      flex-direction: column;
+      text-align: justify;
+      gap: 7vh;
+  
+      text-indent: 10vw;
+      padding-bottom: 5vh;
+    }
+  }
+
+  .album {
     margin: 7vh 0vw 10vh 0vw;
 
     .title {

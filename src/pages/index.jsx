@@ -31,7 +31,7 @@ export default function Home() {
             <Link href="/blog">blog</Link>
           </li>
           <li>
-            <Link href="/photos">photos</Link>
+            <Link href="/photos">photo album</Link>
           </li>
           <li>
             <Link href="/favs">monthly favorites</Link>

@@ -5,7 +5,7 @@ function Favs() {
   return (
     <main className={styles.main}>
       <header className={styles.header}>
-        <h1>Monthly favorites</h1>
+        <h1>monthly favorites</h1>
       </header>
 
       <div className={styles.backbutton}>

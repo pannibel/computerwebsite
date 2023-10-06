@@ -6,7 +6,7 @@ function pro2() {
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>
-          <Link href="/projects">Projects</Link>
+          <Link href="/projects">projects</Link>
         </h1>
       </header>
 

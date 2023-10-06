@@ -6,7 +6,7 @@ function blog3() {
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>
-          <Link href="/blog">Blog</Link>
+          <Link href="/blog">blog</Link>
         </h1>
       </header>
 

@@ -5,7 +5,7 @@ function Photos() {
   return (
     <main className={styles.main}>
       <header className={styles.header}>
-        <h1>Photos</h1>
+        <h1>photo album</h1>
       </header>
 
       <div className={styles.backbutton}>
@@ -16,19 +16,37 @@ function Photos() {
         <div className={styles.shoots}>
           <ul>
             <li>
-              <Link href="/photos/shoot1">SHOOT 01</Link>
+              <Link href="/photos/shoot1">CHAIR NEW RELEASE 'GO!'</Link>
             </li>
             <li>
-              <Link href="/photos/shoot2">SHOOT 02</Link>
+              <Link href="/photos/shoot2">SUMMER IN CROATIA</Link>
             </li>
             <li>
-              <Link href="/photos/shoot3">SHOOT 03</Link>
+              <Link href="/photos/shoot3">SPORO WODY NEW RELEASE '003_04'</Link>
             </li>
             <li>
-              <Link href="/photos/shoot2">SHOOT 04</Link>
+              <Link href="/photos/shoot4">SPORO WODY NEW RELEASE '003_07'</Link>
             </li>
             <li>
-              <Link href="/photos/shoot1">SHOOT 05</Link>
+              <Link href="/photos/shoot5">MAY 2023</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot6">VINHANEN BIRTHDAY</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot7">SOME B&W ANALOGS</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot8">H15 X VINHANEN</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot9">SUMMER 2022</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot10">UNSPILLED</Link>
+            </li>
+            <li>
+              <Link href="/photos/shoot11">SUMMER 2020</Link>
             </li>
           </ul>
         </div>
