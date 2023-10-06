@@ -56,7 +56,7 @@ export default function Home() {
         <section className={styles.about}>
           <div>
             <p>
-              Heeey, I'm Panni and here you can find stuff that I'm making. I
+              Heeey, I’m Panni and here you can find stuff that I’m making. I
               work with digital and physical materials, graphic design is my
               passion, coding is an obsession, but I also love to take photos
               and write out my thoughts sometimes.{" "}
