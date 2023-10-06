@@ -13,12 +13,13 @@ function Favs() {
       </div>
 
       <section className={styles.posts}>
+      <h1 className={styles.comingsoon}>COMING SOON</h1>
         <div className={styles.favs}>
-          <ul>
+{/*           <ul>
             <li><Link href="/favs/dec2023">DECEMBER '23</Link></li>
             <li><Link href="/favs/nov2023">NOVEMBER '23</Link></li>
             <li><Link href="/favs/oct2023">OCTOBER '23</Link></li>
-          </ul>
+          </ul> */}
         </div>
       </section>
 

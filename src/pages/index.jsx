@@ -46,11 +46,10 @@ export default function Home() {
             <div className={styles.backbutton} onClick={() => openPopup()}>
             <p>x</p>
             </div>
-            <p>email:</p>
-            <p>instagram:</p>
-            <p>linkedin:</p>
-            <p>behance:</p>
-            <p>phone:</p>
+            <p>email: <a href="mailto: pannibel@gmail.com">pannibel@gmail.com</a></p>
+            <p>instagram: <a href="https://www.instagram.com/pannibel/" target="_blank">@pannibel</a></p>
+            <p><a href="https://www.linkedin.com/in/anna-belevski-1737141ab/" target="_blank">LINKEDIN</a></p>
+            <p><a href="https://www.behance.net/pannibel" target="_blank">BEHANCE</a></p>
           </div>
         </div>
       ) : (
