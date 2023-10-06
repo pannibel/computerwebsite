@@ -16,13 +16,13 @@ function Blog() {
         <div className={styles.blog}>
           <ul>
             <li>
-              <Link href="/blog/post3">IS CARING A LOSING GAME?</Link>
+              <Link href="/blog/post3">{`IS CARING A LOSING GAME?`}</Link>
             </li>
             <li>
-              <Link href="/blog/post2">ALMOST ALL MY MONEY IS GONE AND I'M RELIEVED</Link>
+              <Link href="/blog/post2">{`ALMOST ALL MY MONEY IS GONE AND I'M RELIEVED`}</Link>
             </li>
             <li>
-              <Link href="/blog/post1">WHERE IS CREATIVITY?</Link>
+              <Link href="/blog/post1">{`WHERE IS CREATIVITY?`}</Link>
             </li>
           </ul>
         </div>
