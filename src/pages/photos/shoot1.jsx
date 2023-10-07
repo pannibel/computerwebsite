@@ -29,27 +29,27 @@ function shoot1() {
 
         <div className={styles.imageFlex}>
         <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3859.jpg" alt="photo6" />
+            <img src="../images/chair/_MG_3859.webp" alt="photo6" />
           </div>
 
         <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3852.jpg" alt="photo4" />
+            <img src="../images/chair/_MG_3852.webp" alt="photo4" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3824.jpg" alt="photo2" />
+            <img src="../images/chair/_MG_3824.webp" alt="photo2" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3739.jpg" alt="photo1" />
+            <img src="../images/chair/_MG_3739.webp" alt="photo1" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3839.jpg" alt="photo3" />
+            <img src="../images/chair/_MG_3839.webp" alt="photo3" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3892.jpg" alt="photo5" />
+            <img src="../images/chair/_MG_3892.webp" alt="photo5" />
           </div>
         </div>
       </section>

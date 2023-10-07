@@ -27,27 +27,27 @@ function shoot7() {
             <div className={styles.imageFlex}>
     
             <div className={styles.imageContainer}>
-                <img src="../images/bw/1.jpg" alt="photo1" />
+                <img src="../images/bw/1.webp" alt="photo1" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/bw/2.jpg" alt="photo4" />
+                <img src="../images/bw/2.webp" alt="photo4" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/bw/3.jpg" alt="photo6" />
+                <img src="../images/bw/3.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/bw/4.jpg" alt="photo3" />
+                <img src="../images/bw/4.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/bw/5.jpg" alt="photo2" />
+                <img src="../images/bw/5.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/bw/6.jpg" alt="photo2" />
+                <img src="../images/bw/6.webp" alt="photo2" />
               </div>
             </div>
           </section>

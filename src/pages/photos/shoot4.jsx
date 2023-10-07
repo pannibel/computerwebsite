@@ -27,23 +27,23 @@ function shoot4() {
             <div className={styles.imageFlex}>
     
             <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2848.jpg" alt="photo1" />
+                <img src="../images/hub02/_MG_2848.webp" alt="photo1" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2888.jpg" alt="photo4" />
+                <img src="../images/hub02/_MG_2888.webp" alt="photo4" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2902.jpg" alt="photo6" />
+                <img src="../images/hub02/_MG_2902.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2952.jpg" alt="photo3" />
+                <img src="../images/hub02/_MG_2952.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2958.jpg" alt="photo2" />
+                <img src="../images/hub02/_MG_2958.webp" alt="photo2" />
               </div>
             </div>
           </section>

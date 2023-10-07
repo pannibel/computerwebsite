@@ -27,35 +27,35 @@ function shoot8() {
             <div className={styles.imageFlex}>
 
             <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1639.jpg" alt="photo2" />
+                <img src="../images/H15/_MG_1639.webp" alt="photo2" />
               </div>
 
             <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1492.jpg" alt="photo6" />
+                <img src="../images/H15/_MG_1492.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1483.jpg" alt="photo4" />
+                <img src="../images/H15/_MG_1483.webp" alt="photo4" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1498.jpg" alt="photo3" />
+                <img src="../images/H15/_MG_1498.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1530.jpg" alt="photo2" />
+                <img src="../images/H15/_MG_1530.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1607.jpg" alt="photo2" />
+                <img src="../images/H15/_MG_1607.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1702.jpg" alt="photo2" />
+                <img src="../images/H15/_MG_1702.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/H15/_MG_1467.jpg" alt="photo1" />
+                <img src="../images/H15/_MG_1467.webp" alt="photo1" />
               </div>
             </div>
           </section>

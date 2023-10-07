@@ -27,35 +27,35 @@ function shoot3() {
         <div className={styles.imageFlex}>
 
         <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3441.jpg" alt="photo1" />
+            <img src="../images/hub01/_MG_3441.webp" alt="photo1" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3411.jpg" alt="photo4" />
+            <img src="../images/hub01/_MG_3411.webp" alt="photo4" />
           </div>
 
         <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3410.jpg" alt="photo6" />
+            <img src="../images/hub01/_MG_3410.webp" alt="photo6" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3472.jpg" alt="photo3" />
+            <img src="../images/hub01/_MG_3472.webp" alt="photo3" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3414.jpg" alt="photo2" />
+            <img src="../images/hub01/_MG_3414.webp" alt="photo2" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3627.jpg" alt="photo5" />
+            <img src="../images/hub01/_MG_3627.webp" alt="photo5" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3507.jpg" alt="photo5" />
+            <img src="../images/hub01/_MG_3507.webp" alt="photo5" />
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3648.jpg" alt="photo5" />
+            <img src="../images/hub01/_MG_3648.webp" alt="photo5" />
           </div>
         </div>
       </section>

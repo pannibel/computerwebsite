@@ -28,23 +28,23 @@ function pro3() {
         <div className={styles.imageFlex}>
 
         <div className={styles.imageContainer} id={styles.image22}>
-            <img src="../images/Jane_Billboard_Mockup2.jpg" alt="okayso_blue" />
+            <img src="../images/Jane_Billboard_Mockup2.webp" alt="okayso_blue" />
           </div>
 
         <div className={styles.imageContainer} id={styles.image21}>
-            <img src="../images/Jane_Billboard_Mockup.jpg" alt="okayso_purple" />
+            <img src="../images/Jane_Billboard_Mockup.webp" alt="okayso_purple" />
           </div>
           
           <div className={styles.imageContainer} id={styles.image23}>
-            <img src="../images/thejane_2.jpg" alt="posters1" />
+            <img src="../images/thejane_2.webp" alt="posters1" />
           </div>
 
           <div className={styles.imageContainer} id={styles.image24}>
-            <img src="../images/thejane_3.jpg" alt="posters2" />
+            <img src="../images/thejane_3.webp" alt="posters2" />
           </div>
 
           <div className={styles.imageContainer} id={styles.image25}>
-            <img src="../images/thejane_5.jpg" alt="posters3" />
+            <img src="../images/thejane_5.webp" alt="posters3" />
           </div>
         </div>
       </section>

@@ -27,35 +27,35 @@ function shoot9() {
             <div className={styles.imageFlex}>
     
             <div className={styles.imageContainer}>
-                <img src="../images/summer2022/1.jpg" alt="photo1" />
+                <img src="../images/summer2022/1.webp" alt="photo1" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/2.jpg" alt="photo4" />
+                <img src="../images/summer2022/2.webp" alt="photo4" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/summer2022/3.jpg" alt="photo6" />
+                <img src="../images/summer2022/3.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/4.jpg" alt="photo3" />
+                <img src="../images/summer2022/4.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/5.jpg" alt="photo2" />
+                <img src="../images/summer2022/5.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/6.jpg" alt="photo2" />
+                <img src="../images/summer2022/6.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/7.jpg" alt="photo2" />
+                <img src="../images/summer2022/7.webp" alt="photo2" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/summer2022/8.jpg" alt="photo2" />
+                <img src="../images/summer2022/8.webp" alt="photo2" />
               </div>
             </div>
           </section>

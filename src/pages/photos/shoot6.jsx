@@ -27,55 +27,55 @@ function shoot6() {
             <div className={styles.imageFlex}>
 
             <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/7.jpg" alt="photo5" />
+                <img src="../images/vinhanen/7.webp" alt="photo5" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/5.jpg" alt="photo2" />
+                <img src="../images/vinhanen/5.webp" alt="photo2" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/1.jpg" alt="photo1" />
+                <img src="../images/vinhanen/1.webp" alt="photo1" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/2.jpg" alt="photo4" />
+                <img src="../images/vinhanen/2.webp" alt="photo4" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/4.jpg" alt="photo3" />
+                <img src="../images/vinhanen/4.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/6.jpg" alt="photo5" />
+                <img src="../images/vinhanen/6.webp" alt="photo5" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/8.jpg" alt="photo5" />
+                <img src="../images/vinhanen/8.webp" alt="photo5" />
               </div>
 
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/9.jpg" alt="photo6" />
+                <img src="../images/vinhanen/9.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/10.jpg" alt="photo3" />
+                <img src="../images/vinhanen/10.webp" alt="photo3" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/11.jpg" alt="photo2" />
+                <img src="../images/vinhanen/11.webp" alt="photo2" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/12.jpg" alt="photo5" />
+                <img src="../images/vinhanen/12.webp" alt="photo5" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/13.jpg" alt="photo5" />
+                <img src="../images/vinhanen/13.webp" alt="photo5" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/14.jpg" alt="photo5" />
+                <img src="../images/vinhanen/14.webp" alt="photo5" />
               </div>
             </div>
           </section>

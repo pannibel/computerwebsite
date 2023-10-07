@@ -27,19 +27,19 @@ function shoot10() {
             <div className={styles.imageFlex}>
 
             <div className={styles.imageContainer}>
-                <img src="../images/spilled/3b.jpg" alt="photo4" />
+                <img src="../images/spilled/3b.webp" alt="photo4" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/spilled/2b.jpg" alt="photo1" />
+                <img src="../images/spilled/2b.webp" alt="photo1" />
               </div>
     
             <div className={styles.imageContainer}>
-                <img src="../images/spilled/8b.jpg" alt="photo6" />
+                <img src="../images/spilled/8b.webp" alt="photo6" />
               </div>
     
               <div className={styles.imageContainer}>
-                <img src="../images/spilled/9b.jpg" alt="photo3" />
+                <img src="../images/spilled/9b.webp" alt="photo3" />
               </div>
     
             </div>
