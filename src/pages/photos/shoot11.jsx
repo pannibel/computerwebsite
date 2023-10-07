@@ -61,10 +61,6 @@ function shoot11() {
           <div className={styles.imageContainer}>
             <Image src={img7} alt="img7" layout="responsive" loading="eager"></Image>
           </div>
-
-          <div className={styles.imageContainer}>
-            <Image src={img8} alt="img8" layout="responsive" loading="eager"></Image>
-          </div>
     
             </div>
           </section>
