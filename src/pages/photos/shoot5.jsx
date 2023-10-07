@@ -1,6 +1,7 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
 
+
 function shoot5() {
     return (
       <>

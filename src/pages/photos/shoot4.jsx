@@ -38,11 +38,11 @@ function shoot4() {
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
@@ -50,7 +50,7 @@ function shoot4() {
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
           </div>
             </div>
           </section>

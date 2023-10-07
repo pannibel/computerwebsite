@@ -7,6 +7,9 @@ import img3 from "../../../public/images/summer2023/3.webp";
 import img4 from "../../../public/images/summer2023/4.webp";
 import img5 from "../../../public/images/summer2023/5.webp";
 import img6 from "../../../public/images/summer2023/6.webp";
+import img7 from "../../../public/images/summer2023/7.webp";
+import img8 from "../../../public/images/summer2023/8.webp";
+import img9 from "../../../public/images/summer2023/9.webp";
 
 function shoot2() {
   return (
@@ -38,15 +41,15 @@ function shoot2() {
           </div>
 
           <div className={styles.imageContainer}>
+            <Image src={img8} alt="img8" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
             <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
-          </div>
-
-          <div className={styles.imageContainer}>
-            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+            <Image src={img9} alt="img9" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
@@ -55,6 +58,18 @@ function shoot2() {
 
           <div className={styles.imageContainer}>
             <Image src={img6} alt="img6" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img7} alt="img7" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
           </div>
         </div>
       </section>

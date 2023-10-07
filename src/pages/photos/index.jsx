@@ -30,9 +30,9 @@ function Photos() {
             <li>
               <Link href="/photos/shoot4">SPORO WODY NEW RELEASE ’003_07’</Link>
             </li>
-            <li>
+{/*             <li>
               <Link href="/photos/shoot5">MAY 2023</Link>
-            </li>
+            </li> */}
             <li>
               <Link href="/photos/shoot6">VINHANEN BIRTHDAY</Link>
             </li>

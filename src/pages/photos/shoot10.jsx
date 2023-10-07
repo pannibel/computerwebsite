@@ -1,5 +1,11 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
+import img1 from "../../../public/images/spilled/3b.webp";
+import img2 from "../../../public/images/spilled/2b.webp";
+import img3 from "../../../public/images/spilled/8b.webp";
+import img4 from "../../../public/images/spilled/9b.webp";
+
 
 function shoot10() {
     return (
@@ -28,20 +34,20 @@ function shoot10() {
             <div className={styles.imageFlex}>
 
             <div className={styles.imageContainer}>
-                <img src="../images/spilled/3b.webp" alt="photo4" />
-              </div>
-    
-            <div className={styles.imageContainer}>
-                <img src="../images/spilled/2b.webp" alt="photo1" />
-              </div>
-    
-            <div className={styles.imageContainer}>
-                <img src="../images/spilled/8b.webp" alt="photo6" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/spilled/9b.webp" alt="photo3" />
-              </div>
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+          </div>
     
             </div>
           </section>

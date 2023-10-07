@@ -1,5 +1,12 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
+import img1 from "../../../public/images/bw/1.webp";
+import img2 from "../../../public/images/bw/2.webp";
+import img3 from "../../../public/images/bw/3.webp";
+import img4 from "../../../public/images/bw/4.webp";
+import img5 from "../../../public/images/bw/5.webp";
+import img6 from "../../../public/images/bw/6.webp";
 
 function shoot7() {
     return (
@@ -28,28 +35,28 @@ function shoot7() {
             <div className={styles.imageFlex}>
     
             <div className={styles.imageContainer}>
-                <img src="../images/bw/1.webp" alt="photo1" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/bw/2.webp" alt="photo4" />
-              </div>
-    
-            <div className={styles.imageContainer}>
-                <img src="../images/bw/3.webp" alt="photo6" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/bw/4.webp" alt="photo3" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/bw/5.webp" alt="photo2" />
-              </div>
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+          </div>
 
-              <div className={styles.imageContainer}>
-                <img src="../images/bw/6.webp" alt="photo2" />
-              </div>
+          <div className={styles.imageContainer}>
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img6} alt="img6" layout="responsive" loading="eager"></Image>
+          </div>
             </div>
           </section>
     
