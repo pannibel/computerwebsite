@@ -44,7 +44,10 @@ body {
   background-color: var(--color-blue);
   height: 100vh;
   cursor:cell;
+}
 
+main {
+  padding-bottom: 2vh;
 }
 
 footer {
@@ -52,7 +55,7 @@ footer {
   margin-top: auto;
   padding: 0 0 2vh 2vw;
 
-  bottom: 0%;
+  bottom: 0;
   font-family: var(--font-third);
   color: var(--color-green);
 }
@@ -128,7 +131,10 @@ li {
   }
 
   footer {
+    position: relative;
+    bottom: 0;
     margin-top: auto;
-    padding: 0vh -2vw 1vh 0.5vw;
+    width: 100%;
+    padding: 0vh 0vw 1vh 2vw;
   }
 }

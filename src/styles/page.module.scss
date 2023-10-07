@@ -299,6 +299,7 @@
 @media only screen and (max-width: 500px) {
   .main {
     padding: 15% 10% 15% 10%;
+    min-height: 97vh;
   }
 
   .header {
@@ -347,6 +348,22 @@
   .backbutton {
     justify-content: flex-start;
     font-size: var(--p);
+  }
+
+  .posts {
+    .projects,
+    .blog,
+    .shoots,
+    .favs {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 5vh;
+  
+      width: 70vw;
+    }
+
   }
 
   .post {
