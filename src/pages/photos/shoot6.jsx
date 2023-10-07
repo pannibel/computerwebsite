@@ -40,63 +40,9 @@ function shoot6() {
           <h4>ANALOG / PENTAX ESPIO 80</h4>
         </div>
 
-{/*         <div className={styles.imageFlex}>
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/7.webp" alt="photo5" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/5.webp" alt="photo2" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/1.webp" alt="photo1" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/2.webp" alt="photo4" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/4.webp" alt="photo3" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/6.webp" alt="photo5" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/8.webp" alt="photo5" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/9.webp" alt="photo6" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/10.webp" alt="photo3" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/11.webp" alt="photo2" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/12.webp" alt="photo5" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/13.webp" alt="photo5" />
-          </div>
-
-          <div className={styles.imageContainer}>
-            <img src="../images/vinhanen/14.webp" alt="photo5" />
-          </div>
-        </div> */}
-
         <div className={styles.imageFlex}>
           <div className={styles.imageContainer}>
-            <Image className={styles.image} src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>

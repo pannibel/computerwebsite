@@ -1,5 +1,14 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
+import img1 from "../../../public/images/hub01/_MG_3441.webp";
+import img2 from "../../../public/images/hub01/_MG_3411.webp";
+import img3 from "../../../public/images/hub01/_MG_3410.webp";
+import img4 from "../../../public/images/hub01/_MG_3472.webp";
+import img5 from "../../../public/images/hub01/_MG_3414.webp";
+import img6 from "../../../public/images/hub01/_MG_3627.webp";
+import img7 from "../../../public/images/hub01/_MG_3507.webp";
+import img8 from "../../../public/images/hub01/_MG_3648.webp";
 
 function shoot3() {
   return (
@@ -28,35 +37,35 @@ function shoot3() {
         <div className={styles.imageFlex}>
 
         <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3441.webp" alt="photo1" />
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3411.webp" alt="photo4" />
-          </div>
-
-        <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3410.webp" alt="photo6" />
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3472.webp" alt="photo3" />
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3414.webp" alt="photo2" />
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3627.webp" alt="photo5" />
+            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3507.webp" alt="photo5" />
+            <Image src={img6} alt="img6" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/hub01/_MG_3648.webp" alt="photo5" />
+            <Image src={img7} alt="img7" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img8} alt="img8" layout="responsive" loading="eager"></Image>
           </div>
         </div>
       </section>

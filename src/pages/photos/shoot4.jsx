@@ -1,5 +1,11 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
+import img1 from "../../../public/images/hub02/_MG_2848.webp";
+import img2 from "../../../public/images/hub02/_MG_2888.webp";
+import img3 from "../../../public/images/hub02/_MG_2902.webp";
+import img4 from "../../../public/images/hub02/_MG_2952.webp";
+import img5 from "../../../public/images/hub02/_MG_2958.webp";
 
 function shoot4() {
     return (
@@ -28,24 +34,24 @@ function shoot4() {
             <div className={styles.imageFlex}>
     
             <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2848.webp" alt="photo1" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2888.webp" alt="photo4" />
-              </div>
-    
-            <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2902.webp" alt="photo6" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2952.webp" alt="photo3" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/hub02/_MG_2958.webp" alt="photo2" />
-              </div>
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
+          </div>
             </div>
           </section>
     

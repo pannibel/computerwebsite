@@ -1,6 +1,13 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
 import Image from "next/image";
+import img1 from "../../../public/images/chair/_MG_3859.webp";
+import img2 from "../../../public/images/chair/_MG_3852.webp";
+import img3 from "../../../public/images/chair/_MG_3824.webp";
+import img4 from "../../../public/images/chair/_MG_3739.webp";
+import img5 from "../../../public/images/chair/_MG_3839.webp";
+import img6 from "../../../public/images/chair/_MG_3892.webp";
+
 
 function shoot1() {
   return (
@@ -30,27 +37,27 @@ function shoot1() {
 
         <div className={styles.imageFlex}>
         <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3859.webp" alt="photo6" />
-          </div>
-
-        <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3852.webp" alt="photo4" />
+            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3824.webp" alt="photo2" />
+            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3739.webp" alt="photo1" />
+            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3839.webp" alt="photo3" />
+            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <img src="../images/chair/_MG_3892.webp" alt="photo5" />
+            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img6} alt="img6" layout="responsive" loading="eager"></Image>
           </div>
         </div>
       </section>

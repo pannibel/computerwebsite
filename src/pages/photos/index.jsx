@@ -13,6 +13,8 @@ function Photos() {
         <Link href="/">back home</Link>
       </div>
 
+      <h4 className={styles.disclaimer}>(Images might load slow, please be patient)</h4>
+
       <section className={styles.posts}>
         <div className={styles.shoots}>
           <ul>
