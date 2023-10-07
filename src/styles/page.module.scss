@@ -67,12 +67,6 @@
   }
 }
 
-.footer {
-  position: absolute;
-  bottom: 0%;
-  font-family: var(--font-third);
-  color: var(--color-green);
-}
 
 
 //* POPUP *//
@@ -296,6 +290,10 @@
   color: var(--color-green);
   font-size: 150px;
 }
+
+
+
+
 
 //? MOBILE VIEWSSS /
 @media only screen and (max-width: 500px) {

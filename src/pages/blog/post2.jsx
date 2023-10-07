@@ -3,6 +3,7 @@ import styles from "../../styles/page.module.scss";
 
 function blog2() {
   return (
+    <>
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>
@@ -235,8 +236,10 @@ function blog2() {
         </div>
       </section>
 
-      <footer className={styles.footer}>pannibel 2023</footer>
     </main>
+    <footer className={styles.footer}>pannibel 2023</footer>
+
+    </>
   );
 }
 

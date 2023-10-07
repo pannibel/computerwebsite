@@ -4,6 +4,7 @@ import styles from "../../styles/page.module.scss";
 function Projects() {
 
   return (
+    <>
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>projects</h1>
@@ -45,8 +46,10 @@ function Projects() {
         </div>
       </section>
 
-      <footer className={styles.footer}>pannibel 2023</footer>
     </main>
+    <footer className={styles.footer}>pannibel 2023</footer>
+
+    </>
   );
 }
 

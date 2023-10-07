@@ -3,6 +3,7 @@ import styles from "../../styles/page.module.scss";
 
 function Favs() {
   return (
+    <>
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>monthly favorites</h1>
@@ -23,8 +24,10 @@ function Favs() {
         </div>
       </section>
 
-      <footer className={styles.footer}>pannibel 2023</footer>
     </main>
+    <footer className={styles.footer}>pannibel 2023</footer>
+
+    </>
   );
 }
 

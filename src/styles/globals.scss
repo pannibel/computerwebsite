@@ -43,14 +43,18 @@ body {
   color: var(--color-white);
   background-color: var(--color-blue);
   height: 100vh;
-
   cursor:cell;
 
 }
 
 footer {
+  position: absolute;
   margin-top: auto;
   padding: 0 0 2vh 2vw;
+
+  bottom: 0%;
+  font-family: var(--font-third);
+  color: var(--color-green);
 }
 
 h1, h2, h3, h4, li {
@@ -121,5 +125,10 @@ li {
 
   li {
     font-size: var(--p);
+  }
+
+  footer {
+    margin-top: auto;
+    padding: 0vh -2vw 1vh 0.5vw;
   }
 }

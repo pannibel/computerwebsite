@@ -3,6 +3,7 @@ import styles from "../../styles/page.module.scss";
 
 function Photos() {
   return (
+    <>
     <main className={styles.main}>
       <header className={styles.header}>
         <h1>photo album</h1>
@@ -52,8 +53,10 @@ function Photos() {
         </div>
       </section>
 
-      <footer className={styles.footer}>pannibel 2023</footer>
     </main>
+    <footer className={styles.footer}>pannibel 2023</footer>
+
+    </>
   );
 }
 
