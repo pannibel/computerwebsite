@@ -1,88 +1,157 @@
 import Link from "next/link";
 import styles from "../../styles/page.module.scss";
+import Image from "next/image";
+import img1 from "../../../public/images/vinhanen/7.webp";
+import img2 from "../../../public/images/vinhanen/5.webp";
+import img3 from "../../../public/images/vinhanen/1.webp";
+import img4 from "../../../public/images/vinhanen/2.webp";
+import img5 from "../../../public/images/vinhanen/4.webp";
+import img6 from "../../../public/images/vinhanen/6.webp";
+import img7 from "../../../public/images/vinhanen/8.webp";
+import img8 from "../../../public/images/vinhanen/9.webp";
+import img9 from "../../../public/images/vinhanen/10.webp";
+import img10 from "../../../public/images/vinhanen/11.webp";
+import img11 from "../../../public/images/vinhanen/12.webp";
+import img12 from "../../../public/images/vinhanen/13.webp";
+import img13 from "../../../public/images/vinhanen/14.webp";
+
 
 function shoot6() {
-    return (
-        <main className={styles.main}>
-          <header className={styles.header}>
-            <h1>
-              <Link href="/projects">photo album</Link>
-            </h1>
-          </header>
-    
-          <div className={styles.backbutton}>
-            <Link href="/">back home</Link>
+  return (
+    <main className={styles.main}>
+      <header className={styles.header}>
+        <h1>
+          <Link href="/projects">photo album</Link>
+        </h1>
+      </header>
+
+      <div className={styles.backbutton}>
+        <Link href="/">back home</Link>
+      </div>
+
+      <section className={styles.album}>
+        <div className={styles.backbutton}>
+          <Link href="/photos">{`<<<`}</Link>
+        </div>
+
+        <div className={styles.title}>
+          <h3>VINHANEN BIRTHDAY</h3>
+          <h4>ANALOG / PENTAX ESPIO 80</h4>
+        </div>
+
+{/*         <div className={styles.imageFlex}>
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/7.webp" alt="photo5" />
           </div>
-    
-          <section className={styles.album}>
-          <div className={styles.backbutton}>
-            <Link href="/photos">{`<<<`}</Link>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/5.webp" alt="photo2" />
           </div>
-          
-            <div className={styles.title}>
-              <h3>VINHANEN BIRTHDAY</h3>
-              <h4>ANALOG / PENTAX ESPIO 80</h4>
-            </div>
-    
-            <div className={styles.imageFlex}>
 
-            <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/7.webp" alt="photo5" />
-              </div>
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/1.webp" alt="photo1" />
+          </div>
 
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/5.webp" alt="photo2" />
-              </div>
-    
-            <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/1.webp" alt="photo1" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/2.webp" alt="photo4" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/4.webp" alt="photo3" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/6.webp" alt="photo5" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/8.webp" alt="photo5" />
-              </div>
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/2.webp" alt="photo4" />
+          </div>
 
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/9.webp" alt="photo6" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/10.webp" alt="photo3" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/11.webp" alt="photo2" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/12.webp" alt="photo5" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/13.webp" alt="photo5" />
-              </div>
-    
-              <div className={styles.imageContainer}>
-                <img src="../images/vinhanen/14.webp" alt="photo5" />
-              </div>
-            </div>
-          </section>
-    
-          <footer className={styles.footer}>pannibel 2023</footer>
-        </main>
-      );
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/4.webp" alt="photo3" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/6.webp" alt="photo5" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/8.webp" alt="photo5" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/9.webp" alt="photo6" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/10.webp" alt="photo3" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/11.webp" alt="photo2" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/12.webp" alt="photo5" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/13.webp" alt="photo5" />
+          </div>
+
+          <div className={styles.imageContainer}>
+            <img src="../images/vinhanen/14.webp" alt="photo5" />
+          </div>
+        </div> */}
+
+        <div className={styles.imageFlex}>
+          <div className={styles.imageContainer}>
+            <Image src={img1} alt="img1" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img2} alt="img2" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img3} alt="img3" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img4} alt="img4" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img5} alt="img5" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img6} alt="img6" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img7} alt="img7" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img8} alt="img8" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img9} alt="img9" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img10} alt="img10" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img11} alt="img11" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img12} alt="img12" width={600} loading="eager"></Image>
+          </div>
+
+          <div className={styles.imageContainer}>
+            <Image src={img13} alt="img13" width={600} loading="eager"></Image>
+          </div>
+
+        </div>
+      </section>
+
+      <footer className={styles.footer}>pannibel 2023</footer>
+    </main>
+  );
 }
 
-export default shoot6
+export default shoot6;
