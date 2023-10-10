@@ -37,9 +37,9 @@ function Projects() {
           </ul>
           <h3>2021</h3>
           <ul>
-            <li><Link href="https://pannibel.com/primetime/" target="_blank">PRIMETIME GAME (desktop only)</Link></li>
-            <li><Link href="https://pannibel.com/timetravel/" target="_blank">TIME TRAVEL WEBSITE</Link></li>
-            <li><Link href="https://pannibel.com/microcomputer/index.html" target="_blank">MICROCOMPUTER WEBSITE (desktop only)</Link></li>
+            <li><Link href="https://pannibel.github.io/primetime/index.html" target="_blank">PRIMETIME GAME (desktop only)</Link></li>
+            <li><Link href="https://pannibel.github.io/timetravel/index.html" target="_blank">TIME TRAVEL WEBSITE</Link></li>
+            <li><Link href="https://pannibel.github.io/microcomputer/index.html" target="_blank">MICROCOMPUTER WEBSITE (desktop only)</Link></li>
             {/* <li><Link href="/projects/pro3">ILLUSTRATIONS 01</Link></li> */}
           </ul>
 
