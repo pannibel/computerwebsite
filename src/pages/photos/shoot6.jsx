@@ -41,6 +41,8 @@ function shoot6() {
         <div className={styles.title}>
           <h3>VINHANEN BIRTHDAY</h3>
           <h4>ANALOG / PENTAX ESPIO 80</h4>
+          <p>The Copenhagen-based winebar opened 10 years ago, so this was a big celebration that I had the chance to document.
+          This was the first time shooting with my Pentax Espio, which combined with a roll of Kodak Gold, fit the mood perfectly.</p>
         </div>
 
         <div className={styles.imageFlex}>

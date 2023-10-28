@@ -32,6 +32,8 @@ function shoot10() {
             <div className={styles.title}>
               <h3>UNSPILLED</h3>
               <h4>DIGITAL / CANON EOS 70D</h4>
+              <p>The sequel to my photoshoot "Spilled" in 2021. This time I didn't spill the drinks.
+              An experiment at home with my own lights (lamps) and mirror reflections.</p>
             </div>
     
             <div className={styles.imageFlex}>

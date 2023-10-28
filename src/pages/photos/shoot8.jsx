@@ -35,6 +35,7 @@ function shoot8() {
             <div className={styles.title}>
               <h3>H15 X VINHANEN</h3>
               <h4>DIGITAL / CANON EOS 70D</h4>
+              <p>During my internship at Vinhanen, I had the chance to try my hand at beverage and food photography. This is my favorite shoot out of them, at the restaurant H15.</p>
             </div>
     
             <div className={styles.imageFlex}>

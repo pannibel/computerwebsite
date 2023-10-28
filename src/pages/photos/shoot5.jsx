@@ -27,6 +27,7 @@ function shoot5() {
             <div className={styles.title}>
               <h3>MAY 2023</h3>
               <h4>ANALOG / PENTAX ESPIO 80</h4>
+              <p>Photos from Copenhagen and the Netherlands.</p>
             </div>
     
             <div className={styles.imageFlex}>

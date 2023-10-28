@@ -36,6 +36,9 @@ function shoot1() {
           <h4>
             DIGITAL / CANON EOS 70D
           </h4>
+          <p>The band approached me to help them with the making of their music video for the song, as well as shooting some promotional pictures for press and social media. <br />
+          Check out the AI-spiced up video <a href="https://www.youtube.com/watch?v=KmFXvvhNXqs" target="_blank">here</a> <br />
+          Some of the photos got made into a <a href="https://www.instagram.com/p/CyK90duIemk/?img_index=1" target="_blank">mural</a> too!</p>
         </div>
 
         <div className={styles.imageFlex}>

@@ -34,6 +34,7 @@ function shoot11() {
             <div className={styles.title}>
               <h3>SUMMER 2020</h3>
               <h4>ANALOG / PENTAX SPOTMATIC</h4>
+              <p>A collection of photos from the summer of 2020 in Hungary.</p>
             </div>
     
             <div className={styles.imageFlex}>

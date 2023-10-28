@@ -278,6 +278,11 @@ align-items: center;
       font-weight: bolder;
       color: var(--color-green);
     }
+
+    a:hover {
+      color: var(--color-green);
+      font-style: italic;
+    }
   }
 
   .bodytext {

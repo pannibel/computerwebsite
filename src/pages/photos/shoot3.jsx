@@ -35,6 +35,9 @@ function shoot3() {
         <div className={styles.title}>
           <h3>SPORO WODY NEW RELEASE ’003_04’</h3>
           <h4>DIGITAL / CANON EOS 70D</h4>
+          <p>A flash-heavy outdoors photoshoot with Hubert <a href="https://www.instagram.com/sporo.wody/" target="_blank">(Sporo Wody)</a> for his new <a href="https://open.spotify.com/track/2ikmWdSLChKqIL3mGOvCgg?si=5a2b8d8210f34a3e" target="_blank">ambient track</a>. <br />
+          Creative direction: him and me <br />
+          Set assistant: <a href="https://www.instagram.com/priszci/" target="_blank">Priszci</a></p>
         </div>
 
         <div className={styles.imageFlex}>

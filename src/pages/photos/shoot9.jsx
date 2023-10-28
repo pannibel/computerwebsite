@@ -35,6 +35,7 @@ function shoot9() {
             <div className={styles.title}>
               <h3>SUMMER 2022</h3>
               <h4>ANALOG / PENTAX SPOTMATIC</h4>
+              <p>A collection of photos I shot over the summer in Copenhagen and Aarhus.</p>
             </div>
     
             <div className={styles.imageFlex}>

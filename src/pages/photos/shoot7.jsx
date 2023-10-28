@@ -33,6 +33,7 @@ function shoot7() {
             <div className={styles.title}>
               <h3>SOME B&W ANALOGS</h3>
               <h4>ANALOG / PENTAX SPOTMATIC</h4>
+              <p>I love my old Pentax camera, and I love black an white photos with it even more. No occasion, just a collection of photos I shot over a couple months.</p>
             </div>
     
             <div className={styles.imageFlex}>
