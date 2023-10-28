@@ -21,9 +21,10 @@ function pro2() {
       </div>
         <div className={styles.title}>
           <h3>BLENDER VACCINE</h3>
-          <h4>
-            First attempt at Blender, following @intranetgirl’s tutorial on Youtube
-          </h4>
+          <p>
+            First attempt at Blender, following @intranetgirl’s tutorial on Youtube. <br />
+            It's only a small try-out, but I enjoyed it a lot and will do more in the future.
+          </p>
         </div>
 
         <div className={styles.imageFlex}>

@@ -15,6 +15,8 @@ function Projects() {
       </div>
 
       <section className={styles.posts}>
+        <p>I'm collecting my various projects of graphic design, digital design, and coding here. <br /> Some are bigger, some are smaller, some are just try-outs.
+        </p>
         <div className={styles.projects}>
           <h3>2023</h3>
           <ul>

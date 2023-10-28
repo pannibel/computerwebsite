@@ -159,9 +159,9 @@ align-items: center;
     width: 30vw;
 
     h3 {
-      font-family: var(--font-primary);
-      color: var(--color-white);
-      padding-top: 1em;
+      font-family: var(--font-secondary);
+      color: var(--color-pink);
+      padding-top: 2em;
     }
 
     ul {
@@ -175,9 +175,9 @@ align-items: center;
         a {
           color: var(--color-green);
         }
-        /*        a:hover {
+        a:hover {
           color: var(--color-pink);
-        } */
+        }
       }
       li:hover {
         cursor: pointer;
@@ -234,6 +234,11 @@ align-items: center;
     h3 {
       font-weight: bolder;
       color: var(--color-green);
+    }
+
+    a:hover {
+      color: var(--color-green);
+      font-style: italic;
     }
   }
 

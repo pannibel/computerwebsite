@@ -21,9 +21,10 @@ function pro3() {
       </div>
       <div className={styles.title}>
           <h3>THE JANE POSTERS</h3>
-          <h4>
-            Event posters for the Jane in Copenhagen
-          </h4>
+          <p>
+            Event posters for the Jane in Copenhagen. <br /> I worked here as graphic designer next to my studies in Multimedia Design, and created banners and animations for events each week. These are some of my favourites. 
+            <br /> <a href="https://www.youtube.com/@pannibel/shorts" target="_blank">Here</a> you can check out a few of the videos I also made.
+          </p>
         </div>
 
         <div className={styles.imageFlex}>

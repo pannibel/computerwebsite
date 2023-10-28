@@ -29,14 +29,18 @@ export default function Home() {
             <Link href="/projects">projects</Link>
           </li>
           <li>
-            <Link href="/blog">blog</Link>
-          </li>
-          <li>
             <Link href="/photos">photo album</Link>
           </li>
           <li>
-            <Link href="/favs">monthly favorites</Link>
+            <Link href="/blog">blog</Link>
           </li>
+          <li>
+            <Link href="/docs">docs</Link>
+          </li>
+
+{/*           <li>
+            <Link href="/favs">monthly favorites</Link>
+          </li> */}
         </ul>
       </nav>
 

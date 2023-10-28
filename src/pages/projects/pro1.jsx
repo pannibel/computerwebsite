@@ -23,10 +23,10 @@ function pro1() {
       
         <div className={styles.title}>
           <h3>OKAYSO</h3>
-          <h4>
+          <p>
             An experimental work in Photoshop to make print designs for a
-            magazine/event/etc
-          </h4>
+            magazine. <br /> I wanted to try mixing different techniques within the program, testing color schemes, matching typography.
+          </p>
         </div>
 
         <div className={styles.imageFlex}>

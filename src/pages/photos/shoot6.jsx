@@ -30,6 +30,9 @@ function shoot6() {
         <Link href="/">back home</Link>
       </div>
 
+      <h4 className={styles.disclaimer}>(Images might load slow, please be patient)</h4>
+
+
       <section className={styles.album}>
         <div className={styles.backbutton}>
           <Link href="/photos">{`<<<`}</Link>

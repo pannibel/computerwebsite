@@ -21,10 +21,10 @@ function pro2() {
       </div>
         <div className={styles.title}>
           <h3>TOUCH DESIGNER 01</h3>
-          <h4>
+          <p>
             First time trying out Touch Designer following a tutorial on Youtube
-            while I was sick
-          </h4>
+            while I was sick.  <br /> This program was completely new to me, but the node system reminds me of that of coding, so my brain caught on quite fast. The system behind every animation here is essentially the same, only small changes here and there make a big difference in the final product.
+          </p>
         </div>
 
         <div className={styles.imageFlex}>
