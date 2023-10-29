@@ -23,7 +23,7 @@ function pro2() {
           <h3>BLENDER VACCINE</h3>
           <p>
             First attempt at Blender, following @intranetgirl’s tutorial on Youtube. <br />
-            It's only a small try-out, but I enjoyed it a lot and will do more in the future.
+            It’s only a small try-out, but I enjoyed it a lot and will do more in the future.
           </p>
         </div>
 
