@@ -31,35 +31,35 @@ function pro2() {
 
         <div className={styles.imageContainer} id={styles.video03}>
             <video loop autoPlay muted>
-              <source src="../videos/touchd_03.mp4" type="video/mp4" />
+              <source src="../videos/touchd_03.mp4" type="video/mp4" loading="lazy"/>
               Your browser does not support the video tag.
             </video>
           </div>
 
           <div className={styles.imageContainer} id={styles.video02}>
             <video loop autoPlay muted>
-              <source src="../videos/touchd_02.mp4" type="video/mp4" />
+              <source src="../videos/touchd_02.mp4" type="video/mp4" loading="lazy"/>
               Your browser does not support the video tag.
             </video>
           </div>
           
           <div className={styles.imageContainer} id={styles.video04}>
             <video loop autoPlay muted>
-              <source src="../videos/touchd_04.mp4" type="video/mp4" />
+              <source src="../videos/touchd_04.mp4" type="video/mp4" loading="lazy"/>
               Your browser does not support the video tag.
             </video>
           </div>
 
           <div className={styles.imageContainer} id={styles.video01}>
             <video loop autoPlay muted>
-              <source src="../videos/touchd_01.mp4" type="video/mp4" />
+              <source src="../videos/touchd_01.mp4" type="video/mp4" loading="lazy"/>
               Your browser does not support the video tag.
             </video>
           </div>
 
           <div className={styles.imageContainer} id={styles.video05}>
             <video loop autoPlay muted>
-              <source src="../videos/touchd_05.mp4" type="video/mp4" />
+              <source src="../videos/touchd_05.mp4" type="video/mp4" loading="lazy"/>
               Your browser does not support the video tag.
             </video>
           </div>

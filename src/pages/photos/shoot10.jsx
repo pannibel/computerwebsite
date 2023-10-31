@@ -39,19 +39,19 @@ function shoot10() {
             <div className={styles.imageFlex}>
 
             <div className={styles.imageContainer}>
-            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+            <Image src={img1} alt="img1" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+            <Image src={img2} alt="img2" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+            <Image src={img3} alt="img3" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+            <Image src={img4} alt="img4" layout="responsive" loading="lazy"></Image>
           </div>
     
             </div>
