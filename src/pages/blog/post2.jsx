@@ -81,7 +81,7 @@ function blog2() {
               comfortable huge double duvet for my double bed; the coolest
               bedside lamp (on my budget level); a new small analog camera that
               I have already used to take amazing photos with; good skincare
-              items; an electric tootbrush (I collected some compliments from my
+              items; an electric toothbrush (I collected some compliments from my
               dentist); and the latest, a pair of patent mary jane shoes that
               I’m in love with. I also look at food and eating out every once in
               a while as an investment. In a city where the cuisine tastes and
@@ -91,9 +91,9 @@ function blog2() {
               <p>I will also consider any creative outlet as good investment.
               For the past year this meant spending money on painting equipment,
               rolls of film and their development, T-shirt printing, and Adobe
-              subsription. This last one does give me heart palpilations, and
+              subscription. This last one does give me heart palpilations, and
               kinda makes me feel the same way as airlines. Both suck an
-              incredible amount of money our of you for basic neccessities.
+              incredible amount of money out of you for basic neccessities.
               Sorry if I wanna go see my family every once in a while. And also
               for wanting to edit the photos I took.
             </p>
