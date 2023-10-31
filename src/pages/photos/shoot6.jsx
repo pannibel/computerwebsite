@@ -47,55 +47,55 @@ function shoot6() {
 
         <div className={styles.imageFlex}>
           <div className={styles.imageContainer}>
-            <Image src={img1} alt="img1" layout="responsive" loading="eager"></Image>
+            <Image src={img1} alt="img1" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img2} alt="img2" layout="responsive" loading="eager"></Image>
+            <Image src={img2} alt="img2" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img3} alt="img3" layout="responsive" loading="eager"></Image>
+            <Image src={img3} alt="img3" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img4} alt="img4" layout="responsive" loading="eager"></Image>
+            <Image src={img4} alt="img4" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img5} alt="img5" layout="responsive" loading="eager"></Image>
+            <Image src={img5} alt="img5" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img6} alt="img6" layout="responsive" loading="eager"></Image>
+            <Image src={img6} alt="img6" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img7} alt="img7" layout="responsive" loading="eager"></Image>
+            <Image src={img7} alt="img7" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img8} alt="img8" layout="responsive" loading="eager"></Image>
+            <Image src={img8} alt="img8" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img9} alt="img9" layout="responsive" loading="eager"></Image>
+            <Image src={img9} alt="img9" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img10} alt="img10" layout="responsive" loading="eager"></Image>
+            <Image src={img10} alt="img10" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img11} alt="img11" layout="responsive" loading="eager"></Image>
+            <Image src={img11} alt="img11" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img12} alt="img12" layout="responsive" loading="eager"></Image>
+            <Image src={img12} alt="img12" layout="responsive" loading="lazy"></Image>
           </div>
 
           <div className={styles.imageContainer}>
-            <Image src={img13} alt="img13" layout="responsive" loading="eager"></Image>
+            <Image src={img13} alt="img13" layout="responsive" loading="lazy"></Image>
           </div>
 
         </div>

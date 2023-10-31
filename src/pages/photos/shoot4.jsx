@@ -58,7 +58,7 @@ function shoot4() {
                 src={img1}
                 alt="img1"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -66,7 +66,7 @@ function shoot4() {
                 src={img5}
                 alt="img5"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -74,7 +74,7 @@ function shoot4() {
                 src={img6}
                 alt="img6"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -82,7 +82,7 @@ function shoot4() {
                 src={img2}
                 alt="img2"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -90,7 +90,7 @@ function shoot4() {
                 src={img4}
                 alt="img4"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -98,7 +98,7 @@ function shoot4() {
                 src={img7}
                 alt="img7"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
 
             <div className={styles.imageContainer}>
@@ -106,7 +106,7 @@ function shoot4() {
                 src={img3}
                 alt="img3"
                 layout="responsive"
-                loading="eager"></Image>
+                loading="lazy"></Image>
             </div>
           </div>
         </section>
