@@ -174,9 +174,7 @@ align-items: center;
         font-family: var(--font-secondary);
         a {
           color: var(--color-green);
-        }
-        a:hover {
-          color: var(--color-pink);
+          text-decoration: underline;
         }
       }
       li:hover {
