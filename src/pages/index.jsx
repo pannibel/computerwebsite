@@ -20,7 +20,6 @@ export default function Home() {
     }
   }
 
-
   function bounce() {
     console.log("bounce");
     setup();
@@ -29,7 +28,7 @@ export default function Home() {
 
   return (
     <>
-  {/*  <div ref={dvd}>
+      {/*  <div ref={dvd}>
         {" "}
         <Image
           src={dvd_logo}
@@ -39,11 +38,50 @@ export default function Home() {
           loading="lazy"
           onClick={() => bounce()}></Image>
       </div> */}
-     
 
       {/*     <Sketch /> */}
       <main className={styles.main}>
         <header className={styles.header}>
+          <span className={styles.marquee}>
+            {" "}
+            <h1 className={styles.maintitle}>
+              {" "}
+              <span>w</span>
+              <span>w</span>
+              <span>w</span>
+              <span>.</span>
+              <span>p</span>
+              <span>a</span>
+              <span>n</span>
+              <span>n</span>
+              <span>i</span>
+              <span>b</span>
+              <span>e</span>
+              <span>l</span>
+              <span>.</span>
+              <span>c</span>
+              <span>o</span>
+              <span>m</span>{" "}
+            </h1>
+            <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
           <h1 className={styles.maintitle}>
             {" "}
             <span>w</span>
@@ -63,6 +101,330 @@ export default function Home() {
             <span>o</span>
             <span>m</span>{" "}
           </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          </span>
         </header>
 
         <nav className={styles.nav}>
@@ -154,6 +516,7 @@ export default function Home() {
             </div>
           </section>
         )}
+        
       </main>
       <footer className={styles.footer}>pannibel 2023</footer>
     </>
