@@ -424,6 +424,44 @@ export default function Home() {
             <span>o</span>
             <span>m</span>{" "}
           </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
+          <h1 className={styles.maintitle}>
+            {" "}
+            <span>w</span>
+            <span>w</span>
+            <span>w</span>
+            <span>.</span>
+            <span>p</span>
+            <span>a</span>
+            <span>n</span>
+            <span>n</span>
+            <span>i</span>
+            <span>b</span>
+            <span>e</span>
+            <span>l</span>
+            <span>.</span>
+            <span>c</span>
+            <span>o</span>
+            <span>m</span>{" "}
+          </h1>
           </span>
         </header>
 
@@ -508,8 +546,7 @@ export default function Home() {
                 <span>hand</span> <span>at</span> <span>new</span>{" "}
                 <span>mediums.</span>{" "}
                 <a onClick={() => openPopup()}>Click here</a> <span>for</span>{" "}
-                <span>some</span> <span>of</span> <span>my</span>
-                <span>contact</span> <span>details</span> <span>if</span>{" "}
+                <span>some</span> <span>of</span> <span>my</span> <span>contact</span> <span>details</span> <span>if</span>{" "}
                 <span>you</span> <span>wanna</span> <span>get</span>{" "}
                 <span>in</span> <span>touch.</span>
               </p>
