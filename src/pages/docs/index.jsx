@@ -19,7 +19,7 @@ function Documents() {
         <div className={styles.projects}>
           <ul>
             <li><Link href="/../images/Anna-Belevski_CV.pdf" target="_blank">CV</Link></li>
-            <li><Link href="/../images/AnnaBelevski-design-portfolio.pdf" target="_blank">Graphic Design Portfolio</Link></li>
+            <li><Link href="/../images/gd_portfolio_updated.pdf" target="_blank">Graphic Design Portfolio</Link></li>
             <li><Link href="/../images/photo-portfolio.pdf" target="_blank">Photography Portfolio</Link></li>
           </ul>
         </div>
