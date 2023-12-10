@@ -20,6 +20,7 @@ function Projects() {
         <div className={styles.projects}>
           <h3>2023</h3>
           <ul>
+          <li><Link href="/../images/23zine_digi.pdf" target="_blank">2023ZINE</Link></li>
             <li><Link href="/projects/pro1">OKAYSO</Link></li>
             <li><Link href="https://chair.band/" target="_blank">CHAIR.BAND WEBSITE</Link></li>
             <li><Link href="/projects/pro2">TOUCH DESIGNER 01</Link></li>
