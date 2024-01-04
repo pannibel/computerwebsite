@@ -18,16 +18,19 @@ function Projects() {
         <p>I’m collecting my various projects of graphic design, digital design, and coding here. <br /> Some are bigger, some are smaller, some are just try-outs.
         </p>
         <div className={styles.projects}>
+        <h3>2024</h3>
+        <ul>
+          <li><Link href="/projects/pro6">0Oobjects (COMING SOON)</Link></li>
+          </ul>
+
           <h3>2023</h3>
           <ul>
+          <li><Link href="/projects/pro7">ENTITY (COMING SOON)</Link></li>
           <li><Link href="/../images/23zine_digi.pdf" target="_blank">2023ZINE</Link></li>
+          <li><Link href="/projects/pro6">BLENDER METALLIC CHAIN (COMING SOON)</Link></li>
             <li><Link href="/projects/pro1">OKAYSO</Link></li>
             <li><Link href="https://chair.band/" target="_blank">CHAIR.BAND WEBSITE</Link></li>
             <li><Link href="/projects/pro2">TOUCH DESIGNER 01</Link></li>
-            {/* <li><Link href="/projects/pro3">ILLUSTRATIONS 03</Link></li> */}
-{/*         <li><Link href="/projects/pro3">PROJECT 03</Link></li>
-            <li><Link href="/projects/pro2">PROJECT 04</Link></li>
-            <li><Link href="/projects/pro1">PROJECT 05</Link></li> */}
           </ul>
           <h3>2022</h3>
           <ul>
@@ -35,7 +38,6 @@ function Projects() {
             <li><Link href="/projects/pro3">THE ZOO POSTERS</Link></li>
             <li><Link href="/projects/pro5">THE JANE POSTERS</Link></li>
             <li><Link href="/projects/pro4">BLENDER VACCINE</Link></li>
-            {/* <li><Link href="/projects/pro3">ILLUSTRATIONS 02</Link></li> */}
             {/* <li><Link href="https://pannibel.com/murdermystery/" target="_blank">MURDER MYSTERY GAME</Link></li> */}
           </ul>
           <h3>2021</h3>
@@ -43,7 +45,6 @@ function Projects() {
             <li><Link href="https://pannibel.github.io/primetime/index.html" target="_blank">PRIMETIME GAME (desktop only)</Link></li>
             <li><Link href="https://pannibel.github.io/timetravel/index.html" target="_blank">TIME TRAVEL WEBSITE</Link></li>
             <li><Link href="https://pannibel.github.io/microcomputer/index.html" target="_blank">MICROCOMPUTER WEBSITE (desktop only)</Link></li>
-            {/* <li><Link href="/projects/pro3">ILLUSTRATIONS 01</Link></li> */}
           </ul>
 
         </div>
