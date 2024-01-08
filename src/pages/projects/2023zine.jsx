@@ -2,7 +2,7 @@ import Link from "next/link";
 import styles from "../../styles/page.module.scss";
 import Image from "next/image";
 
-function pro1() {
+function pro8() {
   return (
     <>
     <main className={styles.main}>
@@ -67,4 +67,4 @@ function pro1() {
   );
 }
 
-export default pro1;
+export default pro8;

@@ -26,18 +26,18 @@ function Projects() {
           <h3>2023</h3>
           <ul>
           <li><Link href="/projects/pro7">ENTITY (COMING SOON)</Link></li>
-          <li><Link href="/projects/pro8">2023 ZINE</Link></li>
+          <li><Link href="/projects/2023zine">2023 ZINE</Link></li>
           <li><Link href="/projects/pro6">BLENDER METALLIC CHAIN (COMING SOON)</Link></li>
-            <li><Link href="/projects/pro1">OKAYSO</Link></li>
+            <li><Link href="/projects/okayso">OKAYSO</Link></li>
             <li><Link href="https://chair.band/" target="_blank">CHAIR.BAND WEBSITE</Link></li>
-            <li><Link href="/projects/pro2">TOUCH DESIGNER 01</Link></li>
+            <li><Link href="/projects/touchdesigner01">TOUCH DESIGNER 01</Link></li>
           </ul>
           <h3>2022</h3>
           <ul>
             <li><Link href="https://fruit-fest.netlify.app" target="_blank">RANGER FEST WEBSITE</Link></li>
-            <li><Link href="/projects/pro3">THE ZOO POSTERS</Link></li>
-            <li><Link href="/projects/pro5">THE JANE POSTERS</Link></li>
-            <li><Link href="/projects/pro4">BLENDER VACCINE</Link></li>
+            <li><Link href="/projects/zoo">THE ZOO POSTERS</Link></li>
+            <li><Link href="/projects/jane">THE JANE POSTERS</Link></li>
+            <li><Link href="/projects/blendervaccine">BLENDER VACCINE</Link></li>
             {/* <li><Link href="https://pannibel.com/murdermystery/" target="_blank">MURDER MYSTERY GAME</Link></li> */}
           </ul>
           <h3>2021</h3>

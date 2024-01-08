@@ -18,7 +18,7 @@ function Photos() {
         <div className={styles.shoots}>
           <ul>
           <li>
-              <Link href="/photos/shoot13">2023 WINTER ANALOGS</Link>
+              <Link href="/photos/shoot13">2023 WINTER ANALOGS (COMING SOON)</Link>
             </li>
           <li>
               <Link href="/photos/shoot12">HOW TO DRINK NATURAL WINE (FOR VINHANEN)</Link>
