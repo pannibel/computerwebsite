@@ -26,7 +26,7 @@ function Projects() {
           <h3>2023</h3>
           <ul>
           <li><Link href="/projects/pro7">ENTITY (COMING SOON)</Link></li>
-          <li><Link href="/../images/23zine_digi.pdf" target="_blank">2023ZINE</Link></li>
+          <li><Link href="/projects/pro8">2023 ZINE</Link></li>
           <li><Link href="/projects/pro6">BLENDER METALLIC CHAIN (COMING SOON)</Link></li>
             <li><Link href="/projects/pro1">OKAYSO</Link></li>
             <li><Link href="https://chair.band/" target="_blank">CHAIR.BAND WEBSITE</Link></li>
