@@ -25,7 +25,7 @@ function pro8() {
           <h3>2023 ZINE</h3>
           <p>
             My 2023 year in a magazine. <br /> Text, photography, grapics, layout by me (unless stated otherwise, check credits at the end). 
-            Read the whole online version <Link href="/../images/23zine_digi.pdf" target="_blank">here</Link>.
+            Read the whole online version <Link href="/../images/23zine_digital.pdf" target="_blank">here</Link>.
           </p>
         </div>
 
